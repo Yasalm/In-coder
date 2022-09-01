@@ -1,0 +1,13 @@
+qdrant-client
+fastapi
+uvicorn
+sentence-transformers
+psutil
+loguru
+pandas
+requests
+sqlmodel
+pydantic
+sqlalchemy==1.4.35
+woodwork
+python-multipart
