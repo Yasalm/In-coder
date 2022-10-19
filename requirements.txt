@@ -1,7 +1,6 @@
 qdrant-client
 fastapi
 uvicorn
-sentence-transformers
 psutil
 loguru
 pandas
@@ -11,3 +10,4 @@ pydantic
 sqlalchemy==1.4.35
 woodwork
 python-multipart
+docker

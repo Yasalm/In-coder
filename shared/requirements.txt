@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+loguru
+onnxruntime
+pydantic
+qdrant_client
+torch
+transformers
+sentence_transformers

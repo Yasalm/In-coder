@@ -4,3 +4,4 @@ incodes.db
 /data
 __pycache__
 .DS_Store
+shared/onnx/
